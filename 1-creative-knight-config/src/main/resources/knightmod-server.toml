@@ -1,0 +1,13 @@
+# Knight Mod Server Configuration
+# This file contains server-specific settings
+
+[Server Settings]
+	#Enable knight spawning in the world
+	enableKnightSpawning = true
+
+	#Maximum knights per chunk
+	#Range: 0 ~ 50
+	maxKnightsPerChunk = 3
+
+	#Are knights hostile to players
+	knightsHostile = false
